@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+node_modules/
+
+config/config.js
+config/log4js.json
+
+.env
